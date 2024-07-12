@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  .img-coca{
+    color: white;
+    width: 100px;
+    height: 50px;
+    
+  }
+  .ad-container {
+    width: 300px;
+    height: 250px;
+    background-color: black; 
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .ad-content {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .ad-heading {
+    color: #fff; 
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .ad-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: red; 
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+
+  }
+  
+  
